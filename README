@@ -1,0 +1,10 @@
+Multiline calculator written in Java (work in progress).
+
+Functionality (imcomplete):
+addition, subtraction, multiplication, division, exponentiation
+multi-line input, parentheses
+derivates, integration(definite)(incomplete)
+powers, square-root, logarithms
+(inverse) trigonometric functions,
+memory
+combination, permutation, factorial
